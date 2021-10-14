@@ -4,13 +4,13 @@ void setup() {
 
 void draw() {
   background(225);
-
+//Roterere hovedet.
 pushMatrix();
 translate(400,600);
 rotate(frameCount/5.0);
 
 
-
+//Tegner hoved med øjne, mund og hat
 strokeWeight(2);
 circle(0,0,300);
 square(-75,-60,50);
