@@ -75,7 +75,7 @@ void draw(){
   line(475,220,495,250);
   
   textSize(32);
-  text("Gayboi", 400, 280);
+  text("alie_v2", 400, 280);
 }
 
 
